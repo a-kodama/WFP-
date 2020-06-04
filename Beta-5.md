@@ -16,7 +16,7 @@
 
 開発者ツール（F12）を立ち上げ、 `[Application]` - `[Local Storage]` から `http://10.145.11.35:3000/` を選択し、 `vuex` をキーに登録されている値を右クリックから削除することでアプリ再起動後にチュートリアルが表示されるようになります。
 
-
+![Local Strage 削除](https://user-images.githubusercontent.com/19407009/83709358-4d747780-a659-11ea-8ae0-283ee326c6fa.png)
 
 ### コメント
 
