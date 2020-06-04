@@ -38,13 +38,13 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 
 ## 不具合・要望一覧
 
-| No   | 概要                                                         | カテゴリー                              | 対応状況 |
-| ---- | ------------------------------------------------------------ | --------------------------------------- | -------- |
-| 1    | 電話をマウスオーバーすると、内線番号より上に電話マークが重なって見にくいものがある | <span style="color: red;">不具合</span> | 完了     |
-| 2    | 検索によって座席表の下のフッタが上にあがったきて、座席と被ってしまう（レイアウト崩れ） | <span style="color: red;">不具合</span> | 完了     |
-| 3    | 着席の履歴を見たい                                           | <span style="color: blue;">要望</span>  |          |
-| 4    | 出社予定を登録したい                                         | <span style="color: blue;">要望</span>  |          |
-| 5    | チュートリアルを初回だけではなく、何度も見たい               | <span style="color: blue;">要望</span>  |          |
+| No    | 概要                                                         | カテゴリー                              | 対応状況 |
+| ----- | ------------------------------------------------------------ | --------------------------------------- | -------- |
+| 1    | [電話をマウスオーバーすると、内線番号より上に電話マークが重なって見にくいものがある](https://github.com/a-kodama/WFP_beta_test/blob/master/Beata-1.md) | <span style="color: red;">不具合</span> | 完了     |
+| 2    | [検索によって座席表の下のフッタが上にあがったきて、座席と被ってしまう（レイアウト崩れ）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-2.md) | <span style="color: red;">不具合</span> | 完了     |
+| 3    | [着席の履歴を見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-3.md)                                           | <span style="color: blue;">要望</span>  |   未定       |
+| 4    | [出社予定を登録したい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-4.md)                                         | <span style="color: blue;">要望</span>  |   対応なし       |
+| 5    | [チュートリアルを初回だけではなく、何度も見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-5.md)               | <span style="color: blue;">要望</span>  | 完了         |
 | 6    | 自分が着席する前でも他の人のカレンダーを見たい               | <span style="color: blue;">要望</span>  |          |
 | 7    | カレンダーの表示を大きくしてほしい（表示サイズを変更できるようにしてほしい） | <span style="color: blue;">要望</span>  |          |
 | 8    | 検索の際、表示中の部屋に在席してない旨（もしくは別の部屋に在席している旨）を通知して欲しい | <span style="color: blue;">要望</span>  |          |
