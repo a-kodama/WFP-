@@ -45,8 +45,8 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 3    | [着席の履歴を見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-3.md)                                           | <span style="color: blue;">要望</span>  |   未定       |
 | 4    | [出社予定を登録したい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-4.md)                                         | <span style="color: blue;">要望</span>  |   対応なし       |
 | 5    | [チュートリアルを初回だけではなく、何度も見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-5.md)               | <span style="color: blue;">要望</span>  | 完了         |
-| 6    | 自分が着席する前でも他の人のカレンダーを見たい               | <span style="color: blue;">要望</span>  |          |
-| 7    | カレンダーの表示を大きくしてほしい（表示サイズを変更できるようにしてほしい） | <span style="color: blue;">要望</span>  |          |
+| 6    | 自分が着席する前でも他の人のカレンダーを見たい               | <span style="color: blue;">要望</span>  | 対応予定 |
+| 7    | カレンダーの表示を大きくしてほしい（表示サイズを変更できるようにしてほしい） | <span style="color: blue;">要望</span>  | 対応予定 |
 | 8    | 検索の際、表示中の部屋に在席してない旨（もしくは別の部屋に在席している旨）を通知して欲しい | <span style="color: blue;">要望</span>  |          |
 | 9    | 在宅の人の所属がわかるようにしてほしい（「所属」を切り替えても何も変わらない） | <span style="color: blue;">要望</span>  |          |
 | 10   | アイコンや下の名前だと、ぱっと見誰なのかわかりづらいので、苗字にして欲しい | <span style="color: blue;">要望</span>  |          |
@@ -59,3 +59,12 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 15-3 | ゴミ当番が分かる仕組みが欲しい                               | <span style="color: blue;">要望</span>  |          |
 | 15-4 | 大阪、東京の部屋も対応してほしい                             | <span style="color: blue;">要望</span>  |          |
 | 15-5 | 会議室にも対応してほしい                                     | <span style="color: blue;">要望</span>  |          |
+| 16 | 部屋の向きが分かりくいので、何か目印を入れてほしい      | <span style="color: blue;">要望</span>  | 完了 |
+| 17 | 各部屋に何人座っているのか数字を表示してほしい             | <span style="color: blue;">要望</span>  |          |
+| 18 | 着席済の人をクリックすると、真っ白なダイアログが表示される | <span style="color: red;">不具合</span> |          |
+| 19 | 役員をターゲットに検索できない                      | <span style="color: red;">不具合</span> |          |
+| 20 | 総務が「きく」に移動したため部屋を増やしてほしい             | <span style="color: blue;">要望</span>  | 対応中 |
+| 21 | 他の人の着席・退席をできるようにほしい（ PM 休の退席忘れ対策）   | <span style="color: blue;">要望</span>  |          |
+| 22 | 検索は部屋をまたいだ検索という仕様なのでしょうか？               | <span style="color: green;">質問</span> |          |
+| 23 | 「くすのき」のドアの場所が違うので変えてほしい               | <span style="color: blue;">要望</span>  |          |
+| 23 | 「くすのき」のドアの場所が違うので変えてほしい               | <span style="color: blue;">要望</span>  |          |
