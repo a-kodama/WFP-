@@ -53,7 +53,7 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 11   | [表示される名前を苗字にしてほしい（ [β - 10] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-11.md) | <span style="color: blue;">要望</span>  |          |
 | 12   | ソーシャルディスタンス確保のために空けている箇所は席を非アクティブにするなどしてほしい | <span style="color: blue;">要望</span>  |          |
 | 13   | 会議室や休憩スペース（打合せスペース）の利用状況や予約ができるようにしてほしい | <span style="color: blue;">要望</span>  |          |
-| 14   | [退席せずに帰宅した場合、日付が変わるとリセットされるのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-1.md) | <span style="color: green;">質問</span> |          |
+| 14   | [退席せずに帰宅した場合、日付が変わるとリセットされるのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-14.md) | <span style="color: green;">質問</span> |          |
 | 15-1 | 座席予約機能と日付選択項目を追加してほしい                   | <span style="color: blue;">要望</span>  |          |
 | 15-2 | 電話の取次ぎをする人が困らないように、出社予定時刻が分かる仕組みがほしい | <span style="color: blue;">要望</span>  |          |
 | 15-3 | ゴミ当番が分かる仕組みが欲しい                               | <span style="color: blue;">要望</span>  |          |
