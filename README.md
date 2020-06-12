@@ -45,7 +45,7 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 3    | [着席の履歴を見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-3.md)                                           | <span style="color: blue;">要望</span>  |   未定       |
 | 4    | [出社予定を登録したい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-4.md)                                         | <span style="color: blue;">要望</span>  |   対応なし       |
 | 5    | [チュートリアルを初回だけではなく、何度も見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-5.md)               | <span style="color: blue;">要望</span>  | 完了         |
-| 6    | [自分が着席する前でも他の人のカレンダーを見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-6.md) | <span style="color: blue;">要望</span>  | 対応予定 |
+| 6    | [自分が着席する前でも他の人のカレンダーを見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-6.md) | <span style="color: blue;">要望</span>  | 完了 |
 | 7    | [カレンダーの表示を大きくしてほしい（表示サイズを変更できるようにしてほしい）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-7.md) | <span style="color: blue;">要望</span>  | 対応予定 |
 | 8    | [検索の際、表示中の部屋に在席してない旨（もしくは別の部屋に在席している旨）を通知して欲しい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-8.md) | <span style="color: blue;">要望</span>  | 対応中 |
 | 9    | 在宅の人の所属がわかるようにしてほしい（「所属」を切り替えても何も変わらない） | <span style="color: blue;">要望</span>  |          |
@@ -68,4 +68,8 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 22 | [検索は部屋をまたいだ検索という仕様なのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-22.md) | <span style="color: green;">質問</span> | 完了 |
 | 23 | 「くすのき」のドアの場所が違うので変えてほしい               | <span style="color: blue;">要望</span>  |          |
 | 24 | 検索結果で透過状態のアイコンをクリックするとカレンダーが正しく表示されない | <span style="color: red;">不具合</span> |          |
+| 25-1 | 着席・退席のアラートはトーストのほうが好ましい | <span style="color: blue;">要望</span> |          |
+| 25-2 | 他の席に着席する際に、一度退席しなくてもできるようにしてほしい | <span style="color: blue;">要望</span> |          |
+
+
 
