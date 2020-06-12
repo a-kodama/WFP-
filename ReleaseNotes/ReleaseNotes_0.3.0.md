@@ -21,3 +21,15 @@
 ベルのアイコンでサイドバーが開きます。ご利用ください。
 
 ![notice](https://user-images.githubusercontent.com/19407009/84481364-f31a8d00-acd0-11ea-9687-7178f08a9f6b.png)
+
+### 在席人数表示
+
+ナビバーと各部屋名の横に在席している人数を表示するようにしました。
+
+ナビバーには定員人数も表示しているので、部屋ごとに在席人数が超えていないか確認できます。
+
+![image](https://user-images.githubusercontent.com/44768088/84490690-79899b80-acde-11ea-80e7-8d2ac19d6cc2.png)
+
+![image](https://user-images.githubusercontent.com/44768088/84490516-3fb89500-acde-11ea-99a5-0e4e1ee372ae.png)
+
+※こちらは検索に応じて数字が変動する機能を予定しており、対応中です。
