@@ -46,7 +46,7 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 4    | [出社予定を登録したい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-4.md)                                         | <span style="color: blue;">要望</span>  |   対応なし       |
 | 5    | [チュートリアルを初回だけではなく、何度も見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-5.md)               | <span style="color: blue;">要望</span>  | 完了         |
 | 6    | [自分が着席する前でも他の人のカレンダーを見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-6.md) | <span style="color: blue;">要望</span>  | 完了 |
-| 7    | [カレンダーの表示を大きくしてほしい（表示サイズを変更できるようにしてほしい）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-7.md) | <span style="color: blue;">要望</span>  | 対応予定 |
+| 7    | [カレンダーの表示を大きくしてほしい（表示サイズを変更できるようにしてほしい）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-7.md) | <span style="color: blue;">要望</span>  | 完了 |
 | 8    | [検索の際、表示中の部屋に在席してない旨（もしくは別の部屋に在席している旨）を通知して欲しい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-8.md) | <span style="color: blue;">要望</span>  | 完了 |
 | 9    | 在宅の人の所属がわかるようにしてほしい（「所属」を切り替えても何も変わらない） | <span style="color: blue;">要望</span>  |          |
 | 10   | [アイコンや下の名前だと、ぱっと見誰なのかわかりづらいので、苗字にして欲しい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-10.md) | <span style="color: blue;">要望</span>  | 対応なし |
@@ -67,7 +67,7 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 21 | 他の人の着席・退席をできるようにほしい（ PM 休の退席忘れ対策）   | <span style="color: blue;">要望</span>  |          |
 | 22 | [検索は部屋をまたいだ検索という仕様なのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-22.md) | <span style="color: green;">質問</span> | 完了 |
 | 23 | 「くすのき」のドアの場所が違うので変えてほしい               | <span style="color: blue;">要望</span>  |          |
-| 24 | [検索結果で透過状態のアイコンをクリックするとカレンダーが正しく表示されない](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-24.md) | <span style="color: red;">不具合</span> | 対応中 |
+| 24 | [検索結果で透過状態のアイコンをクリックするとカレンダーが正しく表示されない](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-24.md) | <span style="color: red;">不具合</span> | 完了 |
 | 25-1 | 着席・退席のアラートはトーストのほうが好ましい | <span style="color: blue;">要望</span> |          |
 | 25-2 | 他の席に着席する際に、一度退席しなくてもできるようにしてほしい | <span style="color: blue;">要望</span> |          |
 | 26 | 席の予約ができるようにしてほしい（[ β - 15-1] と同様） | <span style="color: blue;">要望</span> |          |
