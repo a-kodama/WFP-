@@ -14,10 +14,10 @@
 
 お知らせがある場合、バッチが表示されるようになりました。
 
-お知らせが1件以上ある場合
+##### お知らせが1件以上ある場合
 
 ![image](https://user-images.githubusercontent.com/44768088/85814803-c7ec6f00-b7a1-11ea-8df5-ad30cb4d0d0a.png)
 
-お知らせをすべて消した場合
+##### お知らせをすべて消した場合
 
 ![image](https://user-images.githubusercontent.com/44768088/85814824-d470c780-b7a1-11ea-84f6-37afb8071a49.png)
