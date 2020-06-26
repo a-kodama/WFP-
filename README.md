@@ -43,7 +43,6 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | No    | 概要                                                         | カテゴリー                              | 対応状況 |
 | ----- | ------------------------------------------------------------ | --------------------------------------- | -------- |
 | 3    | [着席の履歴を見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-3.md)                                           | <span style="color: blue;">要望</span>  |   未定       |
-| 9    | [在宅の人の所属がわかるようにしてほしい（「所属」を切り替えても何も変わらない）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-9.md) | <span style="color: blue;">要望</span>  | 対応中 |
 | 13   | 会議室や休憩スペース（打合せスペース）の利用状況や予約ができるようにしてほしい | <span style="color: blue;">要望</span>  |          |
 | 15-1 | 座席予約機能と日付選択項目を追加してほしい                   | <span style="color: blue;">要望</span>  |          |
 | 15-2 | 電話の取次ぎをする人が困らないように、出社予定時刻が分かる仕組みがほしい | <span style="color: blue;">要望</span>  |          |
@@ -72,6 +71,7 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 6    | [自分が着席する前でも他の人のカレンダーを見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-6.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 7    | [カレンダーの表示を大きくしてほしい（表示サイズを変更できるようにしてほしい）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-7.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 8    | [検索の際、表示中の部屋に在席してない旨（もしくは別の部屋に在席している旨）を通知して欲しい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-8.md) | <span style="color: blue;">要望</span>  | 完了     |
+| 9    | [在宅の人の所属がわかるようにしてほしい（「所属」を切り替えても何も変わらない）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-9.md) | <span style="color: blue;">要望</span>  | 完了 |
 | 10   | [アイコンや下の名前だと、ぱっと見誰なのかわかりづらいので、苗字にして欲しい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-10.md) | <span style="color: blue;">要望</span>  | 対応なし |
 | 11   | [表示される名前を苗字にしてほしい（ [β - 10] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-11.md) | <span style="color: blue;">要望</span>  | 対応なし |
 | 12   | [ソーシャルディスタンス確保のために空けている箇所は席を非アクティブにするなどしてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-12.md) | <span style="color: blue;">要望</span>  | 完了     |
