@@ -49,7 +49,6 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 15-3 | ゴミ当番が分かる仕組みが欲しい                               | <span style="color: blue;">要望</span>  |          |
 | 15-4 | 大阪、東京の部屋も対応してほしい                             | <span style="color: blue;">要望</span>  |          |
 | 15-5 | 会議室にも対応してほしい                                     | <span style="color: blue;">要望</span>  |          |
-| 18 | [着席済の人をクリックすると、真っ白なダイアログが表示される](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-18.md) | <span style="color: red;">不具合</span> | 対応中 |
 | 19 | 役員をターゲットに検索できない                      | <span style="color: red;">不具合</span> |          |
 | 21 | 他の人の着席・退席をできるようにほしい（ PM 休の退席忘れ対策）   | <span style="color: blue;">要望</span>  |          |
 | 23 | 「くすのき」のドアの場所が違うので変えてほしい               | <span style="color: blue;">要望</span>  |          |
@@ -59,7 +58,7 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 27 | レイアウトが分かりづらいので、机の枠線を表示してほしい | <span style="color: blue;">要望</span> |          |
 | 28 | 倉敷以外の事務所も対応してほしい | <span style="color: blue;">要望</span> |          |
 | 30 | ブラウザ幅が狭い場合にヘッダーのボタンが機能しない | <span style="color: red;">不具合</span> |          |
-
+| 33 | カレンダー表示中に退席されるとカレンダーが真っ白になってしまう | <span style="color: red;">不具合</span> |          |
 
 
 
@@ -81,8 +80,11 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 14   | [退席せずに帰宅した場合、日付が変わるとリセットされるのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-14.md) | <span style="color: green;">質問</span> | 完了     |
 | 16   | [部屋の向きが分かりくいので、何か目印を入れてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-16.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 17   | [各部屋に何人座っているのか数字を表示してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-17.md) | <span style="color: blue;">要望</span>  | 完了     |
+| 18 | [着席済の人をクリックすると、真っ白なダイアログが表示される](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-18.md) | <span style="color: red;">不具合</span> | 完了 |
 | 20   | [総務が「きく」に移動したため部屋を増やしてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-20.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 22   | [検索は部屋をまたいだ検索という仕様なのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-22.md) | <span style="color: green;">質問</span> | 完了     |
 | 24   | [検索結果で透過状態のアイコンをクリックするとカレンダーが正しく表示されない](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-24.md) | <span style="color: red;">不具合</span> | 完了     |
 | 29 | [在宅Roomに何度でも座れてしまう](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-29.md) | <span style="color: red;">不具合</span> | 完了 |
 | 31 | [在宅Roomに何度でも座れてしまう（[β - 29] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-29.md) | <span style="color: red;">不具合</span> | 完了 |
+| 32 | [「くすのき」をレイアウト変更したので座席のは位置を変更してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-32.md) | <span style="color: blue;">要望</span> | 完了 |
+
