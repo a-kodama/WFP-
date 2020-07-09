@@ -59,7 +59,7 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 28 | 倉敷以外の事務所も対応してほしい | <span style="color: blue;">要望</span> |          |
 | 30 | ブラウザ幅が狭い場合にヘッダーのボタンが機能しない | <span style="color: red;">不具合</span> |          |
 | 33 | カレンダー表示中に退席されるとカレンダーが真っ白になってしまう | <span style="color: red;">不具合</span> |          |
-
+| 35 | TeamSpirit と連動してほしい | <span style="color: blue;">要望</span> |          |
 
 
 ### Close
@@ -87,4 +87,4 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 29 | [在宅Roomに何度でも座れてしまう](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-29.md) | <span style="color: red;">不具合</span> | 完了 |
 | 31 | [在宅Roomに何度でも座れてしまう（[β - 29] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-29.md) | <span style="color: red;">不具合</span> | 完了 |
 | 32 | [「くすのき」をレイアウト変更したので座席のは位置を変更してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-32.md) | <span style="color: blue;">要望</span> | 完了 |
-
+| 34 | [「けやき」をレイアウト変更したので対応してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-34.md) | <span style="color: blue;">要望</span> | 完了 |
