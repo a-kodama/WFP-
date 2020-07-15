@@ -22,36 +22,28 @@
 
 
 
-## WFP で今後実装される予定の機能
-
-WFP ではプロジェクト立ち上げのタイミングで現在実装されていないいくつかの機能を提供する予定でした。
-
-β テストでは体験することができませんが、今後実装が予定されている機能を紹介します。
-
-（要望とかぶりが多いので、予めこちらを確認してからフィードバックしてもらえると泣いて喜びます）
-
-- 座席予約機能
-- バタコさん機能（ゴミ当番お知らせ）
-- パートナーさん利用のための準備（姓名登録など）
-
-
-
 ## 不具合・要望一覧
+
+### Milestone
+
+> WFP ではプロジェクト立ち上げのタイミングで現在実装されていないいくつかの機能を提供する予定でした。
+>
+> β テストでは体験することができませんが、今後実装が予定されている機能を紹介します。
+>
+> （要望とかぶりが多いので、予めこちらを確認してからフィードバックしてもらえると泣いて喜びます）
+
+- **座席予約機能**
+- **バタコさん機能**（ゴミ当番お知らせ）
+- **パートナーさん利用のための準備**（姓名登録など）
 
 ### Open
 
 | No    | 概要                                                         | カテゴリー                              | 対応状況 |
 | ----- | ------------------------------------------------------------ | --------------------------------------- | -------- |
 | 3    | [着席の履歴を見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-3.md)                                           | <span style="color: blue;">要望</span>  |   未定       |
-| 13   | 会議室や休憩スペース（打合せスペース）の利用状況や予約ができるようにしてほしい | <span style="color: blue;">要望</span>  |          |
-| 15-1 | 座席予約機能と日付選択項目を追加してほしい                   | <span style="color: blue;">要望</span>  |          |
-| 15-2 | 電話の取次ぎをする人が困らないように、出社予定時刻が分かる仕組みがほしい | <span style="color: blue;">要望</span>  |          |
-| 15-3 | ゴミ当番が分かる仕組みが欲しい                               | <span style="color: blue;">要望</span>  |          |
-| 15-5 | 会議室にも対応してほしい                                     | <span style="color: blue;">要望</span>  |          |
 | 19 | 役員をターゲットに検索できない                      | <span style="color: red;">不具合</span> |          |
 | 21 | 他の人の着席・退席をできるようにほしい（ PM 休の退席忘れ対策）   | <span style="color: blue;">要望</span>  |          |
 | 25-1 | 着席・退席のアラートはトーストのほうが好ましい | <span style="color: blue;">要望</span> |          |
-| 26 | 席の予約ができるようにしてほしい（[ β - 15-1] と同様） | <span style="color: blue;">要望</span> |          |
 | 27 | レイアウトが分かりづらいので、机の枠線を表示してほしい | <span style="color: blue;">要望</span> |          |
 | 30 | ブラウザ幅が狭い場合にヘッダーのボタンが機能しない | <span style="color: red;">不具合</span> |          |
 | 33 | カレンダー表示中に退席されるとカレンダーが真っ白になってしまう | <span style="color: red;">不具合</span> |          |
@@ -73,8 +65,13 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 10   | [アイコンや下の名前だと、ぱっと見誰なのかわかりづらいので、苗字にして欲しい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-10.md) | <span style="color: blue;">要望</span>  | 対応なし |
 | 11   | [表示される名前を苗字にしてほしい（ [β - 10] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-11.md) | <span style="color: blue;">要望</span>  | 対応なし |
 | 12   | [ソーシャルディスタンス確保のために空けている箇所は席を非アクティブにするなどしてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-12.md) | <span style="color: blue;">要望</span>  | 完了     |
+| 13   | [会議室や休憩スペース（打合せスペース）の利用状況や予約ができるようにしてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-13.md) | <span style="color: blue;">要望</span>  | 対応なし |
 | 14   | [退席せずに帰宅した場合、日付が変わるとリセットされるのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-14.md) | <span style="color: green;">質問</span> | 完了     |
+| 15-1 | [座席予約機能と日付選択項目を追加してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-15-1.md) | <span style="color: blue;">要望</span>  | マイルストーン |
+| 15-2 | [電話の取次ぎをする人が困らないように、出社予定時刻が分かる仕組みがほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-15-2.md) | <span style="color: blue;">要望</span>  | 対応なし |
+| 15-3 | [ゴミ当番が分かる仕組みが欲しい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-15-3.md) | <span style="color: blue;">要望</span>  | マイルストーン |
 | 15-4 | [大阪、東京の部屋も対応してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-15-4.md) | <span style="color: blue;">要望</span>  | 完了 |
+| 15-5 | [会議室にも対応してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-15-5.md) | <span style="color: blue;">要望</span>  | 対応なし |
 | 16   | [部屋の向きが分かりくいので、何か目印を入れてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-16.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 17   | [各部屋に何人座っているのか数字を表示してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-17.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 18 | [着席済の人をクリックすると、真っ白なダイアログが表示される](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-18.md) | <span style="color: red;">不具合</span> | 完了 |
@@ -83,9 +80,9 @@ WFP ではプロジェクト立ち上げのタイミングで現在実装され�
 | 23 | [「くすのき」のドアの場所が違うので変えてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-23.md) | <span style="color: blue;">要望</span>  | 完了 |
 | 24   | [検索結果で透過状態のアイコンをクリックするとカレンダーが正しく表示されない](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-24.md) | <span style="color: red;">不具合</span> | 完了     |
 | 25-2 | [他の席に着席する際に、一度退席しなくてもできるようにしてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-25_2.md) | <span style="color: blue;">要望</span> | 完了 |
+| 26 | [席の予約ができるようにしてほしい（[ β - 15-1] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-26.md) | <span style="color: blue;">要望</span> | マイルストーン |
 | 28 | [倉敷以外の事務所も対応してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-28.md) | <span style="color: blue;">要望</span> | 完了 |
 | 29 | [在宅Roomに何度でも座れてしまう](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-29.md) | <span style="color: red;">不具合</span> | 完了 |
 | 31 | [在宅Roomに何度でも座れてしまう（[β - 29] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-29.md) | <span style="color: red;">不具合</span> | 完了 |
 | 32 | [「くすのき」をレイアウト変更したので座席のは位置を変更してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-32.md) | <span style="color: blue;">要望</span> | 完了 |
 | 34 | [「けやき」をレイアウト変更したので対応してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-34.md) | <span style="color: blue;">要望</span> | 完了 |
-
