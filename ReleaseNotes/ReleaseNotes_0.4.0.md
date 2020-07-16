@@ -43,4 +43,4 @@
 
 通知エリアにスクロールバーがなく見えない通知がありましたので、スクロールバーを追加しました。
 
-<img src="https://user-images.githubusercontent.com/19407009/87615985-f3ce9500-c74e-11ea-8561-1220460e42cd.gif" style="width: 60%">
+![scroll](https://user-images.githubusercontent.com/19407009/87617521-9fc5af80-c752-11ea-87bc-546849c9f844.gif)
