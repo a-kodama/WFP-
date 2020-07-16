@@ -31,11 +31,11 @@
 
 #### Before
 
-<img src="https://user-images.githubusercontent.com/19407009/87615660-2a57e000-c74e-11ea-9b94-751a54e30296.gif" style="width: 60%">
+![before](https://user-images.githubusercontent.com/19407009/87617328-3cd41880-c752-11ea-8d34-560ff5b3842a.gif)
 
 #### After
 
-<img src="https://user-images.githubusercontent.com/19407009/87615796-7a36a700-c74e-11ea-8aa1-529b02e66a2d.gif" style="width: 60%">
+![after](https://user-images.githubusercontent.com/19407009/87617350-452c5380-c752-11ea-9be1-7d3aaf404210.gif)
 
 
 
