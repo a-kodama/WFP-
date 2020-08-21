@@ -41,7 +41,6 @@
 | No    | 概要                                                         | カテゴリー                              | 対応状況 |
 | ----- | ------------------------------------------------------------ | --------------------------------------- | -------- |
 | 3    | [着席の履歴を見たい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-3.md)                                           | <span style="color: blue;">要望</span>  |   未定       |
-| 19 | 役員をターゲットに検索できない                      | <span style="color: red;">不具合</span> |          |
 | 21 | 他の人の着席・退席をできるようにほしい（ PM 休の退席忘れ対策）   | <span style="color: blue;">要望</span>  |          |
 | 25-1 | 着席・退席のアラートはトーストのほうが好ましい | <span style="color: blue;">要望</span> |          |
 | 27 | レイアウトが分かりづらいので、机の枠線を表示してほしい | <span style="color: blue;">要望</span> |          |
@@ -75,6 +74,7 @@
 | 16   | [部屋の向きが分かりくいので、何か目印を入れてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-16.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 17   | [各部屋に何人座っているのか数字を表示してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-17.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 18 | [着席済の人をクリックすると、真っ白なダイアログが表示される](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-18.md) | <span style="color: red;">不具合</span> | 完了 |
+| 19 | [役員をターゲットに検索できない](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-19.md) | <span style="color: red;">不具合</span> |          |
 | 20   | [総務が「きく」に移動したため部屋を増やしてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-20.md) | <span style="color: blue;">要望</span>  | 完了     |
 | 22   | [検索は部屋をまたいだ検索という仕様なのでしょうか？](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-22.md) | <span style="color: green;">質問</span> | 完了     |
 | 23 | [「くすのき」のドアの場所が違うので変えてほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-23.md) | <span style="color: blue;">要望</span>  | 完了 |
