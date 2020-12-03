@@ -47,7 +47,9 @@
 | 30 | ブラウザ幅が狭い場合にヘッダーのボタンが機能しない | <span style="color: red;">不具合</span> |          |
 | 33 | カレンダー表示中に退席されるとカレンダーが真っ白になってしまう | <span style="color: red;">不具合</span> |          |
 | 35 | TeamSpirit と連動してほしい | <span style="color: blue;">要望</span> |          |
-
+| 38   | 通知の未読が0件なのに、バッジが「1」となっている             | <span style="color: red;">不具合</span> |          |
+| 40   | 休みの情報とか時差出勤の情報が必要かも…                      | <span style="color: blue;">要望</span>  |          |
+| 42   | PSC Slackに「WFP本日の着席状況！」とかを通知してくれるBotを作ると面白そう | <span style="color: blue;">要望</span>  |          |
 
 ### Close
 
@@ -86,3 +88,7 @@
 | 31 | [在宅Roomに何度でも座れてしまう（[β - 29] と同様）](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-29.md) | <span style="color: red;">不具合</span> | 完了 |
 | 32 | [「くすのき」をレイアウト変更したので座席のは位置を変更してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-32.md) | <span style="color: blue;">要望</span> | 完了 |
 | 34 | [「けやき」をレイアウト変更したので対応してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-34.md) | <span style="color: blue;">要望</span> | 完了 |
+| 36   | [きくの収容人数の変更が必要かも](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-36.md)                               | <span style="color: blue;">要望</span>  | 完了           |
+| 37   | [部署名の変更が必要かも](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-37.md)                                       | <span style="color: blue;">要望</span>  | 完了           |
+| 39   | [大阪オフィスも追加してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-39.md)                                 | <span style="color: blue;">要望</span>  | 完了           |
+| 41   | [部屋ごと（or島ごと）の電話番号・内線番号を表示してほしい](https://github.com/a-kodama/WFP_beta_test/blob/master/Beta-41.md)     | <span style="color: blue;">要望</span>  | 完了           |
